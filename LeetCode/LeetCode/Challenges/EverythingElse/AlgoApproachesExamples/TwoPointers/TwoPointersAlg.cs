@@ -1,11 +1,13 @@
-﻿namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples
+﻿namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples.TwoPointers
 {
     /* Example of problems
      * Two Sum II
      * Valid Palindrome
      * Container With Most Water
      */
-    public class TwoPointers
+
+    //Сложность O(n)
+    public class TwoPointersAlg
     {
         public int[] TwoPointersExample(int[] nums, int target)
         {

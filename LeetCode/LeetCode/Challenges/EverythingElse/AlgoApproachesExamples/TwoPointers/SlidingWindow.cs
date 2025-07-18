@@ -1,8 +1,10 @@
-﻿namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples
+﻿namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples.TwoPointers.TwoPointers
 {
     //Longest Substring Without Repeating Characters
     //Minimum Window Substring
     //Sliding Window Maximum
+
+    //Сложность O(n)
     public class SlidingWindow
     {
         public SlidingWindow() 

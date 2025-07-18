@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples
+namespace LeetCode.Challenges.EverythingElse.AlgoApproachesExamples.TwoPointers.TwoPointers
 {
     /* Example of problems
      * Remove Duplicates from Sorted Array
      * Move Zeroes
      * Partition Array by Condition
      */
+
+    //Сложность O(n)
     public class FastAndSlow
     {
         //int slow = 0;
